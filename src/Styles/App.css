@@ -1,0 +1,10 @@
+.app {
+	background-image: linear-gradient(to right, #051421, #042727);
+	overflow-x: hidden;
+	overflow-y: scroll;
+	scrollbar-width: none;
+	font-family: "Kumbh Sans", sans-serif;
+}
+.app::-webkit-scrollbar {
+	display: none;
+}
